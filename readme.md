@@ -23,8 +23,11 @@ The experimental results show that our proposed method obtains a ROC-AUC value o
 test set with 32 samples. Based on the recorded evaluation metrics, iNSP-CTDC is demonstrated to be a stable and robust computational 
 framework to address this biological issue.
 
-## Availability and implementation
+## Availability and Implementation
 Source code and data are available on [GitHub](https://github.com/mldlproject/2020-iNSP-CTDC)
+
+## Software Availability
+Please access our web server at
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
