@@ -3,7 +3,7 @@
 #### H. T. Pham, T-H Nguyen-Vo, Q. H. Trinh, T. T. T. Do, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
 
-![alt text](https://github.com/mldlproject/2020-CYP450-mCNN/blob/main/CYP450_abs.svg)
+![alt text](https://github.com/mldlproject/2020-iNSP-CTDC/blob/main/iNSP-CDTC-abs.svg)
 
 **Motivation**: Non-classical secreted proteins refer to a group of proteins released into the extracellular 
 environment under the facilitation of different biological transporting pathways, excepting the Sec/Tat system. Since the 
