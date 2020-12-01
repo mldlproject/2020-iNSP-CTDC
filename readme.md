@@ -23,3 +23,4 @@ framework to address this biological issue.
 
 **Availability and implementation** Source code and data are available on [GitHub](https://github.com/mldlproject/2020-iNSP-CTDC)
 
+**Contact** [Go to contact information]{https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html}
