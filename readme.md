@@ -25,8 +25,6 @@ framework to address this biological issue.
 
 ## Availability and Implementation
 Source code and data are available on [GitHub](https://github.com/mldlproject/2020-iNSP-CTDC)
-
-## Software Availability
 Please access our web server at
 
 ## Contact 
