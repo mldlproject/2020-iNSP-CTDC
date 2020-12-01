@@ -5,7 +5,8 @@
 
 ![alt text](https://github.com/mldlproject/2020-iNSP-CTDC/blob/main/iNSP-CDTC-abs.svg)
 
-**Motivation**: Non-classical secreted proteins refer to a group of proteins released into the extracellular 
+*Motivation*: 
+Non-classical secreted proteins refer to a group of proteins released into the extracellular 
 environment under the facilitation of different biological transporting pathways, excepting the Sec/Tat system. Since the 
 experimental determination of non-classical secreted proteins requires skilled handling techniques and sufficient budgets, 
 many computational approaches have been introduced to promote working efficiency. In this study, we propose iNSP-CTDC, 
