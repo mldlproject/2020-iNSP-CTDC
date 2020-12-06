@@ -3,7 +3,7 @@
 #### H. T. Pham, T-H Nguyen-Vo, Q. H. Trinh, T. T. T. Do*, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
 
-![alt text](https://github.com/mldlproject/2020-iNSP-CTDC/blob/main/iNSP-CDTC-abs.svg)
+![alt text]()
 
 ## Motivation
 Non-classical secreted proteins refer to a group of proteins released into the extracellular 
