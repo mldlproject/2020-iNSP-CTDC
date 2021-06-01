@@ -1,4 +1,4 @@
-# iNSP-CTDC: In silico Identification of Non-classical Secreted Proteins
+# iNSP-GCAAP: Identifying Non-classical Secreted Proteins using Global Composition of Amino Acid Properties
 
 #### H. T. Pham, T-H Nguyen-Vo, Q. H. Trinh, T. T. T. Do*, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
@@ -6,27 +6,27 @@
 ![alt text](https://github.com/mldlproject/2020-iNSP-CTDC/blob/main/iNSP-CDTC-abs.svg)
 
 ## Motivation
-Non-classical secreted proteins refer to a group of proteins released into the extracellular 
-environment under the facilitation of different biological transporting pathways, excepting the Sec/Tat system. Since the 
-experimental determination of non-classical secreted proteins requires skilled handling techniques and sufficient budgets, 
-many computational approaches have been introduced to promote working efficiency. In this study, we propose iNSP-CTDC, 
-a prediction framework, to in silico recognize non-classical secreted proteins from the classical ones. Our proposed method 
-was constructed using random forest and specific features, including composition, transition, and distribution (CTD) of 
-amino acids and global composition (C) of CTD features. The used feature is termed CTDC indicating distribution patterns 
-and physicochemical properties of amino acids built up a protein/peptide sequence.
+Non-classical secreted proteins refer to a group of proteins released into the extracellular environment 
+under the facilitation of different biological transporting pathways apart from the Sec/Tat system. As experimental 
+determination of non-classical secreted proteins is often costly and requires
+skilled handling techniques, computational approaches are necessary. In this study, we introduce iNSP-GCAAP, 
+a computational prediction framework, to identify non-classical secreted proteins. We propose using global composition
+of a customized set of amino acid properties to encode sequence data and use the random forest algorithm for 
+classification. We used the training dataset introduced by Zhang et al. (Bioinformatics, 36(3), 704–712, 2020) to develop
+our model and test it with the independent test set in the same study. 
 
 ## Results
-Despite the simplified design, iNSP-CTDC’s performance is significantly better than contemporary state-ofthe-art 
-methods which have been developed with more complicated learning algorithms and numerous types of protein-encoded schemes. The 
-area under the ROC curve (ROC-AUC) and area under the precision-recall curve (PR-AUC) were used to evaluate the model performance. 
-The experimental results show that our proposed method obtains a ROC-AUC value of 0.88 and PR-AUC value of 0.92 on an independent 
-test set with 32 samples. Based on the recorded evaluation metrics, iNSP-CTDC is demonstrated to be a stable and robust computational 
-framework to address this biological issue.
+The area under the receiver operating characteristic curve (AUC) on that test set was 0.9256 
+which outperformed other state-of-the-art methods using the same
+datasets. Our framework is also deployed as a user-friendly
+web-based application to support the research community
+to predict non-classical secreted proteins.
 
 ## Availability and Implementation
-Source code and data are available on [GitHub](https://github.com/mldlproject/2020-iNSP-CTDC)
+Source code and data are available upon request.
 
-Please access our web server at
+## Web-based Application
+[Click here](https://insp.vnpay.mana.vn/)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
